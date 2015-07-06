@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"sprite"
+			],
+			[
+				"ph",
+				"phaser"
+			],
+			[
+				"pla",
+				"player (obj)"
+			],
+			[
+				"co",
+				"collideWorldBounds (bool)"
+			],
+			[
+				"pl",
+				"player (obj)"
+			],
+			[
+				"b",
+				"bounce (obj)"
+			],
+			[
+				"en",
+				"enable (fn/1)"
+			],
+			[
+				"create",
+				"create(x, y, key, frame, exists)"
+			],
+			[
+				"set",
+				"setTo(x, y)"
+			],
+			[
+				"gr",
+				"group(a, b, d, e, f)"
+			],
+			[
+				"spri",
+				"sprite(a, b, c, d, e)"
+			],
+			[
+				"st",
+				"setBoundsToWorld()"
+			],
+			[
+				"i",
+				"tilemap (fn)"
+			],
+			[
+				"g",
+				"game"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "enable",
+		"selected_items":
+		[
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"reload",
+				"TernJS: Reload"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"tern",
+				"TernJS: Reload"
+			],
+			[
+				"Package Control: disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"cls",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/c/Users/ambar/workspace/code/git/JSGameFrameworks/phaser-coding-tips/issue-006"
+	],
+	"file_history":
+	[
+		"/c/Users/ambar/workspace/code/git/JSGameFrameworks/phaser-coding-tips/issue-006/js/game.js",
+		"/c/Users/ambar/workspace/code/git/JSGameFrameworks/phaser-coding-tips/issue-006/shootout.html",
+		"/C/Users/ambar/Downloads/Game Installers/IGG-OlliOlli/IGG-OlliOlli/README.txt",
+		"/C/Users/ambar/AppData/Local/Hero_Siege/save_folder/herosiege3.pas",
+		"/C/Users/ambar/AppData/Local/Hero_Siege/save_folder/3.pas",
+		"/C/Users/ambar/Downloads/Game Installers/IGG-OlliOlli/IGG-OlliOlli/OlliOlli/README.txt",
+		"/C/Users/ambar/AppData/Local/Hero_Siege/save_folder/DISCLAIMER.txt",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/AppendSemiColon/Default.sublime-keymap",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/phaser/resources/tutorials/02 Making your first game/part5.html",
+		"/C/Users/ambar/Downloads/torz/Hero.Siege.for.PC.v1.2.2.4.portable.full/SKIDROW.ini",
+		"/C/Users/ambar/Downloads/torz/HeroSiege.v1.4.0.5/HeroSiege.v1.4.0.5/README.txt",
+		"/C/users/ambar/workspace/code/git/JSGameFrameworks/workspace_tutorials/making_your_first_game/lib/js/phaser/phaser.js",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/breakout-game-trial/breakout.html",
+		"/C/users/ambar/workspace/code/git/JSGameFrameworks/workspace_tutorials/making_your_first_game/making_your_first_game.sublime-project",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/breakout-game-trial/breakout",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ambar/Downloads/phaser.js",
+		"/C/users/ambar/workspace/code/git/JSGameFrameworks/workspace_tutorials/making_your_first_game/.tern-project",
+		"/C/Users/ambar/Downloads/torz/DFX Audio Enhancer 11.400 Final Incl. Keygen-CORE [ATOM]/ATOM.Install.Notes.Readme.txt",
+		"/C/Users/ambar/Downloads/torz/DFX Audio Enhancer 11.400 + Crack [KaranPC]/iNsTrucTioN.txt",
+		"/C/Users/ambar/Downloads/torz/DFX Audio Enhancer 11.400 Final Incl. Keygen-CORE [ATOM]/Keygen-CORE/CORE.NFO",
+		"/C/Users/ambar/AppData/Local/Temp/Rar$DIa0.091/Readme_IMPORTANT.txt",
+		"/c/Users/ambar/workspace/code/git/JSGameFrameworks/breakout-game-trial/breakout.html",
+		"/C/Users/ambar/AppData/Roaming/Andy/machines/cb7aafef-9e84-4cd1-83fe-4cfe2bc09a55/images/Logs/VBoxStartup.log",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/workspace_tutorials/making_your_first_game/.tern-project",
+		"/C/Program Files (x86)/IrfanView/i_plugins.txt",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/workspace_tutorials/making_your_first_game/index.html",
+		"/C/Users/ambar/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/c/Users/ambar/workspace/code/git/css_examples/load_animation/anim.css",
+		"/C/Users/ambar/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/cmder_v1.2/vendor/profile.ps1",
+		"/C/Users/ambar/Documents/WindowsPowerShell/profile.ps1",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/workspace_tutorials/making_your_first_game/assets/js/phaser.js",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/first-phaser-game/breakout.html",
+		"/C/Users/ambar/AppData/Local/Temp/Rar$DIb0.299/1.txt",
+		"/C/Users/ambar/Documents/PuneQAHiringDrive.java",
+		"/C/Users/ambar/workspace/code/git/JSGameFrameworks/phaser/resources/tutorials/01 Getting Started/part2.html",
+		"/C/Users/ambar/workspace/code/git/scratchpad/testJS.html",
+		"/c/Users/ambar/workspace/code/git/css_examples/load_animation/anim.js",
+		"/C/Tools/ENV VARIABLES - PATH ETC.txt",
+		"/C/Tools/scripts/resetEnv/resetEnv.vbs",
+		"/C/Tools/scripts/resetEnv/resetEnv.bat",
+		"/c/Users/ambar/workspace/code/git/css_examples/green_submit_button/index.html",
+		"/C/Tools/scripts/gitignore.bat"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+;",
+			"ctrl+shift+;",
+			"ctrl+r",
+			"ctrl+shift+r",
+			"wrap",
+			"super",
+			"ctrl+shift+back",
+			"ctrl+u",
+			"delete",
+			"tern_",
+			"\\\\",
+			"tern",
+			"prompt",
+			"stylesheet",
+			"css",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shootout.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"imae",
+				"Image"
+			],
+			[
+				"image",
+				"Phaser.Image"
+			],
+			[
+				"physi",
+				"Physics"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
